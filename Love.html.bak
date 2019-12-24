@@ -16,59 +16,42 @@
 
     </head>
     <body>
-       
         <div id="main">
-            
             <div id="error">亲，您使用的浏览器无法支持即将显示的内容，请换成谷歌(<a href="http://www.google.cn/chrome/intl/zh-CN/landing_chrome.html?hl=zh-CN&brand=CHMI">Chrome</a>)或者火狐(<a href="http://firefox.com.cn/download/">Firefox</a>)浏览器哟~</div>
             <div id="wrap">
                <div id="text">
-              
                     <div id="code">                 
-                    <span class="say">笨笨,笨笨</span><br>
-                    <span class="say">告诉你一个秘密哦</span><br>
-                    <span class="say">我观察了好久才发现的</span><br>
-                    <span class="say">你是猪</span><br>
-                    <span class="say">哈哈</span><br>
-                    <span class="say">圣诞快乐</span><br>
-                    <span class="say">biu biu biu ❤❤❤❤❤❤❤❤❤</span><br>
-                    <!-- <span class="say">biu biu biu ❤❤❤❤❤❤❤❤❤</span><br>
-                    <span class="say"></span><br>
-                    <span class="say"></span><br>
-                    <span class="say"></span><br>
-                     <span class="say"></span><br>
-                    <span class="say"></span><br>
-                    <span class="say"></span><br>
-                    <span class="say"></span><br>
-                    <span class="say"></span><br>
-                    <span class="say"></span><br>
-                    <span class="say"></span><br>
-                    <span class="say"></span><br>
+                    <span class="say">亲爱的肉肉小姐姐，这是我第一次当别人的男友</span><br>
+                    <span class="say">有很多东西都不懂，一直是肉肉眼中的直男呢</span><br>
+                    <span class="say">直男就直男吧，有颗喜欢你的心就好啦</span><br>
+                    <span class="say">迄今为止，理科男已经收集到的情报有：</span><br>
+                     <span class="say">生日为农历7月15日，比四岁的我大一岁</span><br>
+                    <span class="say">喜欢吃莴笋，冬瓜排骨，洋葱炒蛋，番茄炒蛋</span><br>
+                    <span class="say">炖蛋，炒花菜 蚂蚁上树，巧克力，冰淇凌</span><br>
+                    <span class="say">爱喝带蛋的汤，不喜欢吃土豆，讨厌吃药</span><br>
+                    <span class="say">哈哈，都是关于吃的哎</span><br>
+                    <span class="say">你乖巧懂事，善良勤快</span><br>
+                    <span class="say">你体贴温柔，可爱大方</span><br>
+                    <span class="say">遇见你是我最大的幸运 ！</span><br>
                     <br>
-                    <span class="say"></span><br>
-                     <span class="say"></span><br>
-                      <span class="say"></span><br>
-                       <span class="say"></span><br>
-                        <span class="say"></span><br>
-                         <span class="say"></span><br>
-							<span class="say"></span><br>
+                    <span class="say">我是一个摸鱼能手</span><br>
+                     <span class="say">但是作为一个男朋友，我没有摸鱼</span><br>
+                      <span class="say">路还很长</span><br>
+                       <span class="say">我们还会有很多很多故事</span><br>
+                        <span class="say">小姐姐，让我们一直在一起</span><br>
+                         <span class="say">一直手牵手，一直大眼瞪小眼</span><br>
+							<span class="say">biu biu biu ❤❤❤❤❤❤❤❤❤</span><br>
                    <br>
-                    <span class="say"><span class="space"></span> -- </span> -->
+                    <span class="say"><span class="space"></span> -- 想骗你回家的缪炮</span>
                     </div>
-                    
                 </div>
                 <div id="clock-box">
                     <a href="https://user.qzone.qq.com/1625271320" target="_blank">@ 氵氵</a> 与 <a href="https://user.qzone.qq.com/1310024204" target="_blank">@ </a> 在一起的
                         <div id="clock"></div>
-                        <div>
-                            <!-- <br> -->
-                            <a class="jump" href="2018Photo.html" target="_blank">2018&nbsp&nbsp</a>
-                            <a class="jump" href="2019Photo.html" target="_blank">2019&nbsp&nbsp</a>
-                        </div>
-                </div> 
+                </div>
                 <canvas id="canvas" width="1100" height="680"></canvas>
-               
             </div>
-            <!-- <audio src="love.mp3" autoplay="autoplay"></audio> -->
+            <audio src="love.mp3" autoplay="autoplay"></audio>
         </div>
     
     <script>

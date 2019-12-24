@@ -13,4 +13,4 @@ a {color:rgb(0, 0, 0);font-size:14px;}
 .hand{cursor:pointer;}
 .say{margin-left:5px;}
 .space{margin-right:150px;}
-.jump{color:rgb(78, 54, 146);font-size:20px !important; font-weight:bold; text-decoration: none;  margin-top: 10px;}
+.jump{color:rgb(78, 54, 146);font-size:20px !important; font-weight:bold; text-decoration: none;  padding-top: 10px !important;}
